@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{8E42412A-7DB7-4067-9AFC-7D184AC037F3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Activities/MainActivity.cs">
+    <Files>
+      <File FileName="Droid/Activities/MainActivity.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.OpenCVTest FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.OpenCVTest.Droid FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.OpenCVTest.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.56A101A1-FC48-4629-B10D-F00DA0EE63C4" FirstBuild="True">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.OpenCVTest.iOS>
+</Properties>
